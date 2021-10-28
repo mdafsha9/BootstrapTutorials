@@ -1,0 +1,12 @@
+// header
+#header {
+	padding: 20px 0;
+	background: $Bcolor;
+	text-align: center;
+}
+	h1{
+		color:$white;
+	}
+	@media only screen and (max-width: 1023px) {
+		padding: 10px 0;
+	}

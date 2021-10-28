@@ -1,0 +1,15 @@
+#main {
+  marign: 10px; }
+
+#header {
+  padding: 20px 0;
+  background: #641f80;
+  text-align: center; }
+
+h1 {
+  color: #fff; }
+
+@media only screen and (max-width: 1023px) {
+  padding: 10px 0; }
+
+/*# sourceMappingURL=main.css.map */
