@@ -1,5 +1,10 @@
-#main {
-  marign: 10px; }
+body {
+  marign: 0px;
+  padding: 0px;
+  box-sizing: border-box; }
+
+section, h2, p, h3, .col, .grid{
+  padding-left: 50px; }
 
 #header {
   padding: 20px 0;
